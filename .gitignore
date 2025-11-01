@@ -205,3 +205,20 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Python + Notebook
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Models and data
+*.onnx
+data/
+models/
+outputs/
+checkpoints/
+temporary folder for holding data/
+saves/
+
+# OS files
+.DS_Store
