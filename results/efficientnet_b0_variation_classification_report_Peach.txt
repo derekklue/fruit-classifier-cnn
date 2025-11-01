@@ -1,9 +1,0 @@
-                  precision    recall  f1-score   support
-
-Halved or Pitted       1.00      1.00      1.00       204
-          Sliced       0.99      1.00      1.00       203
-           Whole       0.99      0.98      0.99       193
-
-        accuracy                           0.99       600
-       macro avg       0.99      0.99      0.99       600
-    weighted avg       0.99      0.99      0.99       600
