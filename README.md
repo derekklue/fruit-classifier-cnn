@@ -28,7 +28,7 @@ Live Demo
 The interactive classifier demo runs entirely in the browser via ONNX Runtime Web.
 Users can upload a sample image to see predicted fruit type and confidence.
 
-View Demo on Github Pages: []
+View Demo on Github Pages: https://derekklue.github.io/fruit-classifier-cnn/
 
 Results
 
