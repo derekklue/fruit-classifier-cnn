@@ -1,0 +1,9 @@
+              precision    recall  f1-score   support
+
+  In-Context       0.97      0.98      0.98       187
+Sliced-Cored       1.00      0.99      0.99       208
+       Whole       0.98      0.98      0.98       205
+
+    accuracy                           0.98       600
+   macro avg       0.98      0.98      0.98       600
+weighted avg       0.98      0.98      0.98       600
